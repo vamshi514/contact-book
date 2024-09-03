@@ -1,6 +1,6 @@
 names = []
 phone_numbers = []
-num = int(input())
+num = int(input("enter the number of contacts you want to add"))
 
 
 for i in range(num):
